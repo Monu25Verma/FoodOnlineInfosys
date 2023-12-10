@@ -1,0 +1,7 @@
+0101:Madhan:biriyani#2,meals#1:306
+0102:Divya:biriyani#1:120
+0103:Karthik:veg-pizza#2,nonveg-pizza#1:270
+O104:monu:meals#6:540
+O105:monu:biryani#9:972
+O106:hitesh:meals#3:270
+O107:ankita:veg-pizza#7:567
