@@ -32,4 +32,4 @@ class one:
             cal_bill = cal_bill - ((cal_bill * discount) / 100)
             return cal_bill
         else:
-            return cal_bill;
+            return cal_bill
